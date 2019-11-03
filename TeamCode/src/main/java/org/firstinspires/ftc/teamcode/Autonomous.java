@@ -49,7 +49,7 @@ import com.qualcomm.robotcore.util.ElapsedTime;
  * Remove or comment out the @Disabled line to add this opmode to the Driver Station OpMode list
  */
 
-@com.qualcomm.robotcore.eventloop.opmode.Autonomous(name="autonomous test", group="Linear Opmode")
+@com.qualcomm.robotcore.eventloop.opmode.Autonomous(name="Autonomous - mineral side", group="Linear Opmode")
 //@Disabled
 public class Autonomous extends LinearOpMode {
 
